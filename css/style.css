@@ -29,3 +29,9 @@
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
+
+.image {
+  height: auto;
+  width: 900px;
+  float: right;
+}
